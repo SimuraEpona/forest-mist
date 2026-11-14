@@ -1,0 +1,6 @@
+{
+  "name": "forest-mist",
+  "description": "Forest mist, a dusk pine forest theme for Claude Code",
+  "owner": { "name": "Epona" },
+  "plugins": [{ "name": "forest-mist", "source": "./" }]
+}
