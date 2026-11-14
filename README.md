@@ -4,6 +4,8 @@ A Claude Code theme for the desktop and mobile apps: a pine forest at dusk sits 
 
 The trees are tallest at the sides, so the middle of the screen, where the text sits, stays calm and readable. The conversation sits on frosted glass over the backdrop.
 
+![Forest mist in the Claude desktop app: dusk pines on both sides, mist low on the ground, fireflies on the right](assets/screenshot.png)
+
 ## Install
 
 At the prompt of a Claude Code terminal session:
